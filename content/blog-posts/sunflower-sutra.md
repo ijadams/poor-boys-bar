@@ -2,7 +2,7 @@
 author: Allen Ginsberg
 title: https://holdmyticket.com/event/374913
 slug: sunflower-sutra
-date: 2019-08-01T07:00:00.000+00:00
+date: 2019-08-10T07:00:00Z
 hero_image: "/p14-archambeault-eyehategod-a-20190215.jpeg"
 
 ---
