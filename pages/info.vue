@@ -2,7 +2,16 @@
         <section class="info_blurb">
             <div v-html="data.description"></div>
             <div v-html="data.cta"></div>
-            <ul>
+            <h2>HOURS</h2>
+            <h4>Sunday	5PM–4AM<br>
+            Monday	5PM–4AM<br>
+            Tuesday	5PM–4AM<br>
+            Wednesday	5PM–4AM<br>
+            Thursday	5PM–4AM<br>
+            Friday	5PM–6AM<br>
+            Saturday	5PM–6AM</h4>
+          <h2>CONTACT</h2>
+          <ul>
                 <li>
                     <p>
                         <a :href="`mailto:${data.contact.email}`">Email: {{ data.contact.email }}</a>
@@ -10,12 +19,12 @@
                 </li>
                 <li>
                     <p>
-                        <a :href="`https://twitter.com/${data.contact.twitter_handle}`">Twitter: @{{ data.contact.twitter_handle }}</a>
+                        <a :href="`https://www.facebook.com/poorboysbar`">Facebook: poorboysbar</a>
                     </p>
                 </li>
                 <li>
                     <p>
-                        <a :href="`https://github.com/${data.contact.github_handle}`">Github: {{ data.contact.github_handle }}</a>
+                        <a :href="`https://www.instagram.com/poorboysbar/?hl=en`">Instagram: poorboysbar</a>
                     </p>
                 </li>
             </ul>
