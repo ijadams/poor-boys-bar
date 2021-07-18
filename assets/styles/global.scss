@@ -10,10 +10,11 @@
 
 
 body {
-  font-family: "Work Sans","Helvetica Neue", Helvetica, sans-serif;
+  font-family: sans-serif;
   overflow-x: hidden;
-  color: #000;
   font-size: 16px;
+  background: #161515;
+  color: white;
 }
 
 a {
@@ -35,7 +36,7 @@ ul {
 //TYPOGRAPHY-------------------------------------
 
 h1, h2, h3, h4, h5, h6, p {
-  font-family: "Work Sans","Helvetica Neue", Helvetica, sans-serif;
+  font-family: sans-serif;
 }
 
 h1, h2 {
@@ -44,7 +45,7 @@ h1, h2 {
 
 h1 {
   font-size: 2rem;
-  letter-spacing: -1px;
+  letter-spacing: 2px;
   line-height: 1.1875;
 }
 
@@ -76,13 +77,13 @@ p {
     letter-spacing: -1px;
     line-height: 1.1875;
   }
-  
+
   h2 {
     font-size: 1.5rem;
     letter-spacing: -.75px;
     line-height: 1.1667;
   }
-  
+
   h3 {
     letter-spacing: -.5px;
     line-height: 1.1875;

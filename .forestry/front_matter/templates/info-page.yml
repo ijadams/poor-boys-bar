@@ -36,7 +36,7 @@ fields:
     color_format: Hex
   label: Background Color
   description: Choose background color for info page
-  default: "#B1BCBC"
+  default: black
 - name: text_color
   type: color
   label: Text Color
@@ -44,6 +44,6 @@ fields:
     required: false
     color_format: Hex
   description: Choose text color for the info page
-  default: "#EBEBEB"
+  default: "#161515"
 pages:
 - content/data/info.json

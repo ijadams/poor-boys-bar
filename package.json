@@ -13,20 +13,23 @@
     "forestry-preview": "nuxt -p 8080 -H 0.0.0.0"
   },
   "dependencies": {
+    "@nuxt/cli": "^2.8.1",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-vue": "^7.14.0",
     "frontmatter-markdown-loader": "^1.8.0",
-    "node-sass": "^4.12.0",
-    "nuxt": "^2.0.0",
-    "sass-loader": "^7.1.0"
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.0.1",
     "@nuxtjs/eslint-module": "^0.2.1",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.15.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.31.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-nuxt": ">=0.4.2",
     "eslint-plugin-prettier": "^3.0.1",
     "nodemon": "^1.18.9",
-    "prettier": "^1.16.4"
+    "prettier": "^1.16.4",
+    "sass": "^1.35.2",
+    "sass-loader": "^10.1.1"
   }
 }

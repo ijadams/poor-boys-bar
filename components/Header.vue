@@ -2,7 +2,8 @@
     <header class="header">
         <nav class="nav">
             <NuxtLink to="/">
-                <h1>The Blog Title</h1>
+                <h1>Poor Boys Bar</h1>
+                <h5>1328 St Bernard Ave <br> New Orleans, LA 70116</h5>
             </NuxtLink>
             <div>
                 <h1>
@@ -20,7 +21,7 @@
                     type: Boolean,
                     required: false
             }
-        }, 
+        },
         computed: {
             infoRoute() {
                 return this.isInfoPage ? "/" : "/info"
