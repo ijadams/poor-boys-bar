@@ -1,8 +1,8 @@
 ---
 author: Allen Ginsberg
-title: https://holdmyticket.com/event/374913
+title: EYEHATEGOD | Goatwhore | Sick Thoughts | Shitload
 slug: sunflower-sutra
-date: 2019-08-10T07:00:00Z
+date: 2021-09-10T05:00:00Z
 hero_image: "/p14-archambeault-eyehategod-a-20190215.jpeg"
 
 ---
