@@ -30,5 +30,6 @@ fields:
   name: hero_image
   label: hero_image
 pages:
+- content/blog-posts/eyehategod-goatwhore-sick-thoughts-shitload-1.md
 - content/blog-posts/eyehategod-goatwhore-sick-thoughts-shitload.md
 - content/blog-posts/eyehategod-the-obsessed-total-hell-lowbrau.md
