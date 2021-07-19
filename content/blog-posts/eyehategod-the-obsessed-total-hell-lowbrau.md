@@ -1,7 +1,7 @@
 ---
 author: Allen Ginsberg
-title: EYEHATEGOD The Obsessed Total Hell Lowbraü
-date: 2021-07-11T05:00:00Z
+title: EYEHATEGOD The Obsessed Total Hell Lowbrau
+date: 2021-07-11T05:00:00.000+00:00
 hero_image: "/xpzcd2niac7im4owfetq.jpeg"
 
 ---
