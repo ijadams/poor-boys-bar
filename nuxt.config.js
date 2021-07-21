@@ -44,10 +44,13 @@ export default {
     // Doc: https://github.com/nuxt-community/eslint-module
     '@nuxtjs/eslint-module'
   ],
+  buildModules: [
+    '@nuxtjs/vuetify'
+  ],
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: ['@nuxtjs/vuetify'],
   target: 'static',
   /*
    ** Build configuration
