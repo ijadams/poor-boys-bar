@@ -1,7 +1,7 @@
 ---
 author: Allen Ginsberg
 title: EYEHATEGOD The Obsessed Total Hell Lowbrau
-date: 2021-07-11T05:00:00.000+00:00
+date: 2021-09-11T05:00:00Z
 hero_image: "/xpzcd2niac7im4owfetq.jpeg"
 ticket_link: https://tickets.holdmyticket.com/tickets/374913
 
