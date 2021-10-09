@@ -1,8 +1,9 @@
 ---
 author: Allen Ginsberg
-title: EYEHATEGOD Goatwhore Sick Thoughts Shitload
-date: 2021-09-10T05:00:00Z
-hero_image: "/p14-archambeault-eyehategod-a-20190215.jpeg"
+title: EYEHATEGOD Pallbearers total hell haint
+date: 2021-10-23T05:00:00Z
+hero_image: "/96661202-bd05-4cfd-8092-159b1eab04e4.jpeg"
+ticket_link: ''
 
 ---
 SEPTEMBER 10, 2021 6:00 PM - 10:00 PM
