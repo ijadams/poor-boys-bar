@@ -1,8 +1,8 @@
 ---
 author: Allen Ginsberg
-title: EYEHATEGOD The Obsessed Total Hell Lowbrau
-date: 2021-09-11T05:00:00Z
-hero_image: "/xpzcd2niac7im4owfetq.jpeg"
+title: EYEHATEGOD goatwhore sick thoughts shitload
+date: 2021-10-22T05:00:00Z
+hero_image: "/96661202-bd05-4cfd-8092-159b1eab04e4.jpeg"
 ticket_link: https://tickets.holdmyticket.com/tickets/374913
 
 ---
