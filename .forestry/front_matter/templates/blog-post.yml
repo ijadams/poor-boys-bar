@@ -22,3 +22,5 @@ fields:
     required: false
   label: ticket link
   description: Link to buy tickets
+pages:
+- content/blog-posts/the-king-khan-bbq-show-with-miranda-the-beat-plus-static-static-and-dj-lady-li.md
