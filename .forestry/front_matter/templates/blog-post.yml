@@ -22,5 +22,3 @@ fields:
     required: false
   label: ticket link
   description: Link to buy tickets
-pages:
-- content/blog-posts/eyehategod-goatwhore-sick-thoughts-shitload.md
