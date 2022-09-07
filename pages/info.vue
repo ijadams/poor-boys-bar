@@ -17,16 +17,16 @@
                         <a :href="`mailto:${data.contact.email}`">Email: {{ data.contact.email }}</a>
                     </p>
                 </li>
-                <li>
-                    <p>
-                        <a :href="`https://www.facebook.com/poorboysbar`">Facebook: poorboysbar</a>
-                    </p>
-                </li>
-                <li>
-                    <p>
-                        <a :href="`https://www.instagram.com/poorboysbar/?hl=en`">Instagram: poorboysbar</a>
-                    </p>
-                </li>
+<!--                <li>-->
+<!--                    <p>-->
+<!--                        <a :href="`https://www.facebook.com/poorboysbar`">Facebook: poorboysbar</a>-->
+<!--                    </p>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <p>-->
+<!--                        <a :href="`https://www.instagram.com/poorboysbar/?hl=en`">Instagram: poorboysbar</a>-->
+<!--                    </p>-->
+<!--                </li>-->
             </ul>
         </section>
 </template>
