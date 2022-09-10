@@ -1,27 +1,28 @@
 <template>
     <section>
         <ul class="list">
-            <NuxtLink
+            <div
                 v-for="post in sortedPosts"
                 :key="post.attributes.title"
-                :to="`/blog/${formatSlug(post.attributes.title)}`"
             >
+              <a :href="post.attributes.ticket_link">
                 <li>
-                    <div class="hero_image">
-                      <v-img
-                          lazy-src="https://res.cloudinary.com/ia-interactive/image/upload/v1626901063/18921857_675715349281682_2494108169411996645_n_v1xjky.jpg"
-                          :alt="post.attributes.title"
-                          height="100%"
-                          width="100%"
-                          :src="post.attributes.hero_image"
-                      ></v-img>
-                    </div>
-                    <div class="blogList__info">
-                        <h2>{{ post.attributes.title }}</h2>
-                        <h3>{{ formatDate(post.attributes.date) }}</h3>
-                    </div>
+                  <div class="hero_image">
+                    <v-img
+                        lazy-src="https://res.cloudinary.com/ia-interactive/image/upload/v1626901063/18921857_675715349281682_2494108169411996645_n_v1xjky.jpg"
+                        :alt="post.attributes.title"
+                        height="100%"
+                        width="100%"
+                        :src="post.attributes.hero_image"
+                    ></v-img>
+                  </div>
+                  <div class="blogList__info">
+                    <h2>{{ post.attributes.title }}</h2>
+                    <h3>{{ formatDate(post.attributes.date) }}</h3>
+                  </div>
                 </li>
-            </NuxtLink>
+              </a>
+            </div>
         </ul>
     </section>
 </template>
