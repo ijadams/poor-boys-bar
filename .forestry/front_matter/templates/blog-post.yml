@@ -23,4 +23,6 @@ fields:
   label: ticket link
   description: Link to buy tickets
 pages:
+- content/blog-posts/bbymutha-bday-bash-with-katey-red-blu-shakur-dualite-djs-legatron-prime-and-rusty-lazer.md
+- content/blog-posts/claudio-simonetti-s-goblin-suspiria-and-mr.quintron-mellotron-set.md
 - content/blog-posts/the-king-khan-and-bbq-show-with-miranda-and-the-beat-plus-static-static-and-dj-lady-li.md
